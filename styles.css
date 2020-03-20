@@ -46,9 +46,10 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-  /*  align-items: stretch; */
+  /*  align-items: stretch;
+  this is also a change */
 }
-
+.menu
 .social,
 .subscribe{
     border: 1px solid #5995DA;
